@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+💻️🌐️🌳️📚️ The official source repository for the TaBook (Tab Book) feature of Bliss Browser, allowing the export and management of browser tabs and their associated history.
